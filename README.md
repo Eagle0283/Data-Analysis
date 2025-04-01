@@ -12,6 +12,7 @@ The primary objective is to develop a Power BI dashboard for the company Sano y 
 ===========================================================================================
 
 3. Functional Requirements
+   
   3.1 Data Sources
     Integration with the company’s commercial database: Data will be sourced from the Tickets table.
     Product category metadata: Provided via an Excel file named secciones.xlsx.
