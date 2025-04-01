@@ -1,4 +1,4 @@
-# Sales Management Dashboard
+# Sales Management Dashboard - Sano y Fresco
 1. Project Objective
 The primary objective is to develop a Power BI dashboard for the company Sano y Fresco to monitor, analyze, and optimize the annual sales performance of its products. This dashboard must provide detailed insights into revenue, customer behavior, and the performance of different product categories.
 
