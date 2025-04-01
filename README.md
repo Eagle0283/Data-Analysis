@@ -9,7 +9,7 @@ The primary objective is to develop a Power BI dashboard for the company Sano y 
     Highlight top-performing and underperforming products and categories.
     Include key performance indicators (KPIs) relevant to sales management.
 
-=======================================================================================
+==========================================================================
 
 3. Functional Requirements
    
