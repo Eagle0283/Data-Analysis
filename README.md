@@ -59,7 +59,7 @@ The dashboard includes:
 
 ### Steps
 1. **Import Data**:
-   - Connect Power BI to the `Tickets` table (database).
+   - Connect Power BI to the `Tickets` table (database) > download https://drive.google.com/file/d/1FPRBiIH5mPd0aOy1T3ve5_jv3rJvpMWn/view
    - Load `secciones.xlsx` for product category metadata.
 2. **Data Modeling**:
    - Establish relationships between tables.
